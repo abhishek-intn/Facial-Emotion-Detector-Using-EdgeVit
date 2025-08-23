@@ -43,22 +43,7 @@ Install dependencies using pip:
 
 pip install torch torchvision mediapipe opencv-python pillow numpy
 
-▶️ Usage
-
-Clone this repository:
-
-git clone https://github.com/yourusername/emotion-recognition.git
-cd emotion-recognition
-
-
-Place your finetuned EdgeViT-XXS model (edgevit-xxs_finetuned.pth) inside the project folder.
-
-Run the application:
-
 python emotion_app.py
-
-
-Press q to quit the webcam window.
 
 🎥 Output
 
