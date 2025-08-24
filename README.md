@@ -59,4 +59,4 @@ Extra debug window showing frequency transformed face image
 <img width="1644" height="876" alt="image" src="https://github.com/user-attachments/assets/46ebfe23-6915-48b4-9d2a-44c8cda1e873" />
 
 
-
+These above Screenshots are from Raspberry Pi 5. The Model is optimized to pi and deployed into the pi to get seamless experience.
