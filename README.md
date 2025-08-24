@@ -59,7 +59,9 @@ Extra debug window showing frequency transformed face image
 
 🖥️ Example Screenshot
 
-<img width="562" height="417" alt="Screenshot 2025-05-05 011018" src="https://github.com/user-attachments/assets/fecdc290-7982-418a-98ca-9dc89182844e" />
+<img width="1854" height="991" alt="image" src="https://github.com/user-attachments/assets/6bba0a45-3995-4e61-bf85-dac6c0a7c420" />
+
+<img width="1644" height="876" alt="image" src="https://github.com/user-attachments/assets/46ebfe23-6915-48b4-9d2a-44c8cda1e873" />
 
 
 🔮 Future Improvements
