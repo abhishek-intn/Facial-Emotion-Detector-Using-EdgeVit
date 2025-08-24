@@ -109,7 +109,7 @@ class EmotionDetector:
                 return None, None
 
 def run_webcam_app():
-    model_path = 'C:/Users/ABHISHEK K R/Downloads/drive-download-20250503T023042Z-001/edgevit-xxs_finetuned.pth'
+    model_path = 'C:/Users/ABHISHEK K R/Downloads/edgevit-xxs_finetuned.pth'
     detector = EmotionDetector(model_path)
     
     # === Changed camera index from 1 to 0 for Raspberry Pi ===
@@ -191,4 +191,5 @@ def run_webcam_app():
     print("Application closed.")
 
 # Run the app
+
 run_webcam_app()
