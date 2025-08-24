@@ -31,11 +31,6 @@ Dynamic quantization for optimized inference on CPU / Raspberry Pi
 
 Live FPS counter and probability bar visualization
 
-📂 Project Structure
-.
-├── emotion_app.py         # Main script (your uploaded code)
-├── edgevit-xxs_finetuned.pth  # Pretrained model (not included, add your own)
-└── README.md              # Documentation
 
 ⚙️ Requirements
 
@@ -64,10 +59,4 @@ Extra debug window showing frequency transformed face image
 <img width="1644" height="876" alt="image" src="https://github.com/user-attachments/assets/46ebfe23-6915-48b4-9d2a-44c8cda1e873" />
 
 
-🔮 Future Improvements
 
-Deploy as a lightweight Raspberry Pi application
-
-Support for multi-face detection
-
-Integration with Flask/Streamlit for web-based emotion recognitio
